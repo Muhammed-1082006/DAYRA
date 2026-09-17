@@ -1,0 +1,7 @@
+com.dayra.app-pngs-0 /workspaces/DAYRA/DAYRA/app/build/generated/res/pngs/debug
+com.dayra.app-resValues-1 /workspaces/DAYRA/DAYRA/app/build/generated/res/resValues/debug
+com.dayra.app-packageDebugResources-2 /workspaces/DAYRA/DAYRA/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.dayra.app-packageDebugResources-3 /workspaces/DAYRA/DAYRA/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.dayra.app-debug-4 /workspaces/DAYRA/DAYRA/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.dayra.app-debug-5 /workspaces/DAYRA/DAYRA/app/src/debug/res
+com.dayra.app-main-6 /workspaces/DAYRA/DAYRA/app/src/main/res

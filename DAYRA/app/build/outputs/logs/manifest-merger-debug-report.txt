@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:7:22-74
+application
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:9:5-28:19
+INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:9:5-28:19
+	android:extractNativeLibs
+		INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:11:9-30
+	android:roundIcon
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:13:9-49
+	android:icon
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:12:9-44
+	android:allowBackup
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:10:9-40
+	android:usesCleartextTraffic
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:14:9-44
+activity#com.dayra.app.MainActivity
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:exported
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml
+INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml

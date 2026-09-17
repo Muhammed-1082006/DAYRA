@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dayra.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:4:5-66
+11-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:5:5-78
+12-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:6:5-80
+13-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+14-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:7:5-76
+14-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:7:22-74
+15
+16    <application
+16-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:9:5-28:19
+17        android:allowBackup="true"
+17-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:15:9-35
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@drawable/dayra_logo"
+20-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:12:9-44
+21        android:label="DAYRA"
+21-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:11:9-30
+22        android:roundIcon="@drawable/dayra_logo"
+22-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:13:9-49
+23        android:theme="@style/AppTheme"
+23-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:10:9-40
+24        android:usesCleartextTraffic="true" >
+24-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:14:9-44
+25        <activity
+25-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:17:9-26:20
+26            android:name="com.dayra.app.MainActivity"
+26-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:18:13-41
+27            android:exported="true" >
+27-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:19:13-36
+28            <intent-filter>
+28-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:21:13-24:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:22:17-68
+29-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:22:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:23:17-76
+31-->/workspaces/DAYRA/DAYRA/app/src/main/AndroidManifest.xml:23:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

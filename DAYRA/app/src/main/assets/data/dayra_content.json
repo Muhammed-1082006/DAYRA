@@ -1,0 +1,36 @@
+{
+  "app": "DAYRA",
+  "version": "1.0",
+  "sources": [
+    {
+      "name": "وزارة التربية والتعليم المصرية",
+      "type": "official"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "الرياضيات",
+      "books": [],
+      "exercises": [],
+      "lessons": []
+    },
+    {
+      "name": "اللغة العربية",
+      "books": [],
+      "exercises": [],
+      "lessons": []
+    },
+    {
+      "name": "اللغة الإنجليزية",
+      "books": [],
+      "exercises": [],
+      "lessons": []
+    },
+    {
+      "name": "الفيزياء",
+      "books": [],
+      "exercises": [],
+      "lessons": []
+    }
+  ]
+}
